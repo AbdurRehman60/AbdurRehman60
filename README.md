@@ -67,7 +67,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrehman60&show_icons=true&locale=en&layout=compact" alt="abdurrehman60" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrehman60&show_icons=true&locale=en" alt="abdurrehman60" /></p>
+<p h1 style="background-color:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrehman60&show_icons=true&locale=en&layout=compact" alt="abdurrehman60" /></p>
+<p h1 style="background-color:black;ac;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrehman60&show_icons=true&locale=en" alt="abdurrehman60" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrehman60&" alt="abdurrehman60" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrehman60&" alt="abdurrehman60" /></p>
