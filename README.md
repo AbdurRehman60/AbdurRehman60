@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br><br>i have 2 year experience on custom WordPress Development theme modification and some times plugin modification too.I also work on wix square space and bubble io too. I have also experience in HTML CSS and JS based sites. Now i am Working on Flutter App Developement and Also Open Source Working commits on dart or other langauges.<br><br><br>- 🔭 I’m working as flutter <br>- 📚 I'm currently learning Dart</p>
+<p align="left">I'<br><br><br>i have 2 year experience on custom WordPress Development theme modification and some times plugin modification too.I also work on wix square space and bubble io too. I have also experience in HTML CSS and JS based sites. Now i am Working on Flutter App Developement and Also Open Source Working commits on dart or other langauges.<br><br><br>- 🔭 I’m working as flutter <br>- 📚 I'm currently learning Dart<br>👯 I’m looking to collaborate with other content creators
+<br>🥅 2023 Goals: Contribute more to Open Source Projects<br>⚡ Fun fact: I love blogging, coding, reading books, and googling</p>
 
 ###
 
