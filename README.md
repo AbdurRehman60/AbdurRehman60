@@ -66,10 +66,10 @@
 
 ###
 # 📊 GitHub Stats:
-
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdurRehman60&theme=dark&hide_border=false)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrehman60&theme=dark&hide_border=false&show_icons=true&locale=en" alt="abdurrehman60" /></p>
-
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehman60&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
