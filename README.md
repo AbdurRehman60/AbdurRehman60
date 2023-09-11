@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as flutter  <br>- 📚 I'm currently learning Dart</p>
+<p align="left">I'm ... from ....<br> i have 2 year experience on custom WordPress Development theme modification and some times plugin modification too.I also work on wix square space and bubble io too. I have also experience in HTML CSS and JS based sites<br>- 🔭 I’m working as flutter  <br>- 📚 I'm currently learning Dart</p>
 
 ###
 
