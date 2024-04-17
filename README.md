@@ -1,6 +1,7 @@
 
 
 ###
+<h1 align="center">Hi 👋, I'm Abdu R Rehman.</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdur-rehman-609b48282/" target="_blank">
@@ -17,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Abdu R Rehman.</h1>
+
 
 ###
 
